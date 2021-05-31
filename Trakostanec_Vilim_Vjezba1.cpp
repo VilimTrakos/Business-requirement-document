@@ -1,4 +1,4 @@
-// MD5:cfDiV+EZUNRVhmXHGR7fyA==// Verifikator 5.01// Program:Vjezba1// Opis zadatka:Vjezba 1 svi zadaci// Autor:Vilim Trakoštanec// Poèetno vrijeme:19.3.2021. 13:58:03// Završno vrijeme:19.3.2021. 15:12:26// Identifikatori:main,odabir,polje,*,suma,i,funkcija,a,b,povtr,pov,stra,strb,taparat,sifra,naziv,godina,struktura,aparat,pomvar,naziv[10],cout<<"Vas,mjerenje,c,s,razlika,naziv[13]// IP:fe80::bcf2:1454:adf8:2959%2 ( 4233 )// #:#include <ctime>[B],#include <iostream>[B],#include<cstring>,#include<cmath>,#include"biblioteka_vrijeme.cc",#include<ctime>,#include<cstdlib>,#include<iomanip>,// Uspješnih/neuspješnih prevoðenja:50/29#include <iostream>
+
 #include<cstring>
 #include<cmath>
 #include<cstdlib>
