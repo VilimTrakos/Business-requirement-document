@@ -1,4 +1,5 @@
-// MD5:WeMsf7UMtD7Rwbn70snBHA==// Verifikator 5.05// Program:Vjezba8// Opis zadatka:vj8// Autor:Vilim Trakoštanec// Poèetno vrijeme:14.5.2021. 13:59:31// Završno vrijeme:14.5.2021. 15:10:45// Identifikatori:ctrokut,b_trokuta,id_trokuta,a,b,c,main,s,povrsina,izbor,unos,*pok,ispis,i,else,*polje,broj_elemenata// IP:fe80::bcf2:1454:adf8:2959%2 ( 4233 )// #:#include <ctime>[B],#include <iostream>,#include <cmath>,#include "cvrijeme.cc",// Uspješnih/neuspješnih prevoðenja:25/22#include <iostream>
+
+#include <iostream>
 #include <cmath>
 #include "cvrijeme.cc"
 using namespace std;
@@ -56,9 +57,9 @@ int broj_elemenata;
 int izbor,i;
 do{
 cout<<"--------------------------"<<endl;
-cout<<"1.Dinamièka alokacija objekta i unos podataka o trokutu"<<endl;
+cout<<"1.DinamiÃ¨ka alokacija objekta i unos podataka o trokutu"<<endl;
 cout<<"2.Ispis podataka o unesenom trokutu"<<endl;
-cout<<"3.Dinamièka alokacija polja trokuta i unos podataka o pojedninom trokutu u polje"<<endl;
+cout<<"3.DinamiÃ¨ka alokacija polja trokuta i unos podataka o pojedninom trokutu u polje"<<endl;
 cout<<"4.Ispis podataka iz polja o trokutima"<<endl;
 cout<<"9. izlaz"<<endl;
 cin>>izbor;
