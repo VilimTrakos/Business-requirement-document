@@ -1,4 +1,4 @@
-// MD5:o12wFSprkf3gs/Io/LSSfw==// Verifikator 5.05// Program:Vjezba10// Opis zadatka:vj10// Autor:Vilim Trakoštanec// Poèetno vrijeme:4.6.2021. 13:59:10// Završno vrijeme:4.6.2021. 15:24:35// Identifikatori:main,cvrsta_zapis,sifra,naziv[20],tip[20],unos,izbor,ispis,cvrsta,*sljedeci,*zapis,sljedeci,int,void,*novi,*zadnji,zadnji,croba_zapis,redni,sifra_vrste,croba,zapis,*lista_robe,do,odabir,*tekuci,*lista_vrsta,lista_vrsta,kljuc,provjera,pretrazi// IP:fe80::bcf2:1454:adf8:2959%2 ( 4233 )// #:#include <iostream>,#include <cstring>,// Uspješnih/neuspješnih prevoðenja:46/26#include <iostream>
+#include <iostream>
 #include <cstring>
 
 using namespace std;
@@ -171,7 +171,7 @@ lista_vrsta =new cvrsta;
 do{
 cout<<"-----------------------------------------"<<endl;
 cout<<"1.Unos vrsta robe na kraj liste"<<endl;
-cout<<"2.Unos robe na kraj odgovarajuæe liste"<<endl;
+cout<<"2.Unos robe na kraj odgovarajuÃ¦e liste"<<endl;
 cout<<"3.Ispis cijele liste vrsta, ispis cijele liste robe"<<endl;
 cout<<"4.Popis roba zadane vrste"<<endl;
 cin>>izbor;
